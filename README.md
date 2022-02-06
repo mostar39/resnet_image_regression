@@ -3,6 +3,7 @@
 
 Imagenet으로 Pretrained된 Resnet18을 이용하여 Regression 모델을 만들어 본 것
 즉 Fine-tuning 했다고 할 수 있다.
+
 뒤에 Layer와 Normalization 그리고 Active funtion을 추가하였다.
 
 체형 이미지를 이용하여 BMI를 예측하는 그런 Task에 적용하려고 하였다.
